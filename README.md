@@ -1,3 +1,5 @@
 # Random-Password
 <br>
-<h3>This is Random Password !</h3>
+This is Random Password !
+<br>
+Author - Kore Ganesh
