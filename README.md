@@ -1,3 +1,3 @@
 # Random-Password
 <br>
-<h2>This is Random Password !</h2>
+<h3>This is Random Password !</h3>
